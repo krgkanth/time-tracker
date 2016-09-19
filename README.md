@@ -12,3 +12,6 @@ and more updates
 
 # To test pol
 checking build after update
+
+# To test Build artifacts
+Verify after build artifacts
